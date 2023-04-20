@@ -1,1 +1,1 @@
-# This is the codr for "General GAN-Generated Image Detection by Data Augmentation in Fingerprint Domain."
+# This is the code for "General GAN-Generated Image Detection by Data Augmentation in Fingerprint Domain."
